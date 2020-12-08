@@ -1,0 +1,68 @@
+.body{
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.naoecaroservegano{
+    align-items: center;
+    text-align: center;
+    margin: 50px;
+    padding: 100px;
+    background-color: orange;
+
+}
+
+.feira{
+    align-items: center;
+    text-align: center;
+    margin: 100px;
+    padding: 100px;
+    border-width: 5px;
+    border-color: orange;
+    border-style: solid;
+}
+
+.visao{
+    align-items: center;
+    text-align: center;
+    margin: 100px;
+}
+
+.receitas{
+    align-items: center;
+    text-align: center;
+    margin: 100px;
+
+}
+
+.receita1{
+    margin: 50px;
+    padding: 30px;
+    border-width: 3px;
+    border-color: orange;
+    border-style: solid;
+
+}
+.receita2{
+    margin: 50px;
+    padding: 30px;
+    border-width: 3px;
+    border-color: orange;
+    border-style: solid;
+
+}
+.receita3{
+    margin: 50px;
+    padding: 200px;
+    border-width: 3px;
+    border-color: orange;
+    border-style: solid;
+
+}
+
+footer{
+    align-items: center;
+    text-align: center;
+    background-color: orange;
+}
+
